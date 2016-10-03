@@ -1,0 +1,8 @@
+Código-Fonte do Framework desenvolvido no projeto de mestrado intitulado "Sistema de Detecção de Intrusão em Redes de Computadores utilizando Técnicas de Inteligência Computacional". 
+
+Requisitos do Sistema: 
+- Java 7;
+- Biblioteca Jnetpcap;
+- Biblioteca Libpcap;
+
+Framework testado com Microsoft Windows 10 e Linux Ubuntu 14.04
