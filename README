@@ -1,16 +1,18 @@
 Código-Fonte do Framework desenvolvido no projeto de mestrado intitulado:
 "Sistema de Detecção de Intrusão em Redes de Computadores utilizando Técnicas de Inteligência Computacional". 
 
+Informaçoes detalhadas: 
+http://repositorio.ufla.br/bitstream/1/12161/1/DISSERTA%C3%87%C3%83O_Sistema%20de%20detec%C3%A7%C3%A3o%20de%20intrus%C3%A3o%20em%20redes%20de%20computadores%20com%20t%C3%A9cnicas%20de%20intelig%C3%AAncia%20computacional.pdf
+
+
 Autor: Heitor Scalco Neto
 Instituição: Universidade Federal de Lavras
 Mestrado em Ciência da Computação
 
 Requisitos do Sistema: 
 - Java 7;
-- Biblioteca Jnetpcap;
+- Biblioteca Jnetpcap - APENAS EM 32 BITS. A versão para 64 bits contem alguns bugs;
 - Biblioteca Libpcap;
 
+
 Framework testado com Microsoft Windows 10 e Linux Ubuntu 14.04
-
-
-#TODO: Terminar de passar o código e a documentação para o Inglês.
